@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=coinParity
+comment1.params=
+comment1.target=coinParity()
+comment2.params=board\ move
+comment2.target=double\ getParity(java.lang.String[][],\ int)
+numComments=3

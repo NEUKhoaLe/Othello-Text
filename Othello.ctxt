@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Othello
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=x
+comment2.target=void\ sopln(java.lang.String)
+comment3.params=x
+comment3.target=void\ sop(java.lang.String)
+comment4.params=originalBoard\ copyBoard
+comment4.target=void\ copyBoard(java.lang.String[][],\ java.lang.String[][])
+numComments=5

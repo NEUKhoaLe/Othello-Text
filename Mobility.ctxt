@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Mobility
+comment1.params=
+comment1.target=Mobility()
+comment2.params=board\ move
+comment2.target=double\ getMobility(java.lang.String[][],\ int)
+comment3.params=originalBoard\ copyBoard
+comment3.target=void\ copyBoard(java.lang.String[][],\ java.lang.String[][])
+numComments=4

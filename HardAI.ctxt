@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=HardAI
+comment1.params=
+comment1.target=HardAI()
+comment2.params=board\ turn
+comment2.target=java.lang.String[][]\ makeMove(java.lang.String[][],\ int)
+comment3.params=board\ maxPlayer\ depth\ alpha\ beta\ turn
+comment3.target=double\ miniMaxAlgorithm(java.lang.String[][],\ boolean,\ int,\ double,\ double,\ int)
+comment4.params=board\ turn
+comment4.target=double\ getHeuristics(java.lang.String[][],\ int)
+comment5.params=originalBoard\ copyBoard
+comment5.target=void\ copyBoard(java.lang.String[][],\ java.lang.String[][])
+comment6.params=x\ y
+comment6.target=double\ getMax(double,\ double)
+comment7.params=x\ y
+comment7.target=double\ getMin(double,\ double)
+comment8.params=board\ turn
+comment8.target=boolean\ gameOver(java.lang.String[][],\ int)
+numComments=9
